@@ -4,4 +4,5 @@ local IDs = {
 nigger,
 1,
 5,
+8525,
 }
